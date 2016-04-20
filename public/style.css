@@ -1,1 +1,1 @@
-#textbox{float:left;height:100%;width:50%}#markdown{float:left;margin-left:5%}
+#textbox{float:left;height:100%;width:50%}@media (max-width:768px){#textbox{clear:left;width:100%;height:50%}}#markdown{float:left;margin-left:5%}@media (max-width:768px){#markdown{clear:left;margin-left:0}}
